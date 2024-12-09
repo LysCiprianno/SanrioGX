@@ -25,10 +25,6 @@ Este projeto é uma recriação do navegador Opera GX com uma pitada de fofura d
 - `index.html`: Estrutura principal do navegador, onde a mágica começa.
 - `styles.css`: Arquivo de estilos para tornar o navegador adorável e funcional.
 - `script.js`: Lógica de interação, troca de temas e funcionalidades do navegador.
- 
-## Futuras Melhorias
-- 💭 Adicionar mais opções de personalização para os temas.
-- 💭 Criar animações interativas para cada personagem da Sanrio.
- 
+- 
 ## Contribuições
 💖 Contribuições são muito bem-vindas! Se você tiver ideias ou melhorias, faça um fork deste repositório, implemente suas mudanças e envie um pull request. Estou animada para ver suas sugestões!
