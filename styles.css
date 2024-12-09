@@ -1,0 +1,113 @@
+:root {
+    --primary-color: #ff69b4;
+    --secondary-color: #ffffff;
+    --accent-color: #ff1493;
+    --background-image: url('https://i.pinimg.com/originals/92/55/4e/92554ecbcac623182f9d33c2ef6da0e7.gif');
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    background-color: var(--primary-color);
+    color: #333;
+}
+
+#sidebar {
+    background-color: var(--secondary-color);
+}
+
+#opera-icon {
+    background-color: var(--accent-color);
+}
+
+.sidebar-icon button {
+    color: var(--accent-color);
+}
+
+.sidebar-icon button:hover {
+    background-color: var(--primary-color);
+}
+
+#address-bar {
+    background-color: var(--secondary-color);
+}
+
+#active-tab {
+    background-color: var(--primary-color);
+}
+
+#active-tab div {
+    background-color: var(--accent-color);
+}
+
+#new-tab {
+    background-color: var(--new-tab-bg);
+    color: var(--text-color);
+}
+
+#main-content {
+    background-image: var(--background-image);
+}
+
+#search-bar {
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+}
+
+#search-bar:focus {
+    box-shadow: 0 0 0 2px var(--accent-color);
+}
+
+.social-icon {
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+}
+
+.social-icon:hover {
+    background-color: var(--primary-color);
+}
+
+#news-feed {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+}
+
+#news-feed h2 {
+    color: var(--accent-color);
+}
+
+#news-list {
+    color: var(--text-color);
+}
+
+#performance-hud {
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+}
+
+/* Theme-specific styles */
+.theme-kuromi {
+    --primary-color: #4a0e4e;
+    --secondary-color: #000000;
+    --accent-color: #e5c5e5;
+    --background-image: url('https://64.media.tumblr.com/8174b2839fac6c9e960619b4a2407b77/ba163757c251285b-08/s640x960/d16f6fca6d84e87a9588da1d6b16bb3ab63c5298.gifv');
+    --text-color: #ffffff;
+    --new-tab-bg: #6a1b9a;
+}
+
+.theme-myMelody {
+    --primary-color: #ffc0cb;
+    --secondary-color: #ffffff;
+    --accent-color: #ff69b4;
+    --background-image: url('https://www.icegif.com/wp-content/uploads/2023/06/icegif-546.gif');
+}
+
+.theme-cinnamoroll {
+    --primary-color: #e6f2ff;
+    --secondary-color: #ffffff;
+    --accent-color: #4da6ff;
+    --background-image: url('https://64.media.tumblr.com/46a06de8f2d8b2fb16616058cd6695d4/tumblr_osuhcxUuTZ1u080e1o2_500.gif');
+}
+
