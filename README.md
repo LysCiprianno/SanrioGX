@@ -15,7 +15,12 @@ Este projeto é uma recriação do navegador Opera GX com uma pitada de fofura d
  
 ## Acesse o Projeto
 🌐 Você pode acessar a página do projeto clicando [aqui](https://lysciprianno.github.io/SanrioGX/) para ver a versão online.
- 
+
+![Cinnamoroll](https://github.com/user-attachments/assets/a8018e18-033e-4bdf-afd0-9f5e15b81f3f)
+![Kuromi](https://github.com/user-attachments/assets/c49ca902-9c6f-45b2-8241-7529f52618d3)
+![My Melody](https://github.com/user-attachments/assets/0d8e6b26-eb00-4e86-a4ce-34f93e34f295)
+![Hello Kitty](https://github.com/user-attachments/assets/c1ca0da0-e7e0-4f03-91b9-74def3f84384)
+
 ## Estrutura do Projeto
 - `index.html`: Estrutura principal do navegador, onde a mágica começa.
 - `styles.css`: Arquivo de estilos para tornar o navegador adorável e funcional.
